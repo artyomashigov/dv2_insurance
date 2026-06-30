@@ -1,3 +1,9 @@
 # dv2_insurance
 
-Here you can find data visualizations and dashboard about insurance data.
+Data visualization project focused on insurance data.
+
+## Contents
+
+- Exploratory visualizations
+- Dashboard assets
+- Insurance dataset analysis
